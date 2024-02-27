@@ -1,0 +1,8 @@
+[
+  ["Dúlsz-fúlsz,", "mufurc", "?"],
+  ["Pusz-puszt", "unsz?", nil],
+  ["Búsulsz", "juszt", "huncutul?"],
+  ["Nu.", "Kukulj!", "Dugulj!"],
+  ["Ukkmukkfukk.", nil, nil],
+  ["Slussz!", "Nuku", "mukk."]
+]
